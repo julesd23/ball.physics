@@ -75,7 +75,7 @@ while (balls.length < 50) {
 }
 
 function loop() {
-    ctx.fillStyle = 'rgba(66, 135, 245, 0.15)';
+    ctx.fillStyle = 'rgba(66, 135, 245, 0.25)';
     ctx.fillRect(0, 0, width, height);
  
     for (const ball of balls) {
