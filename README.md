@@ -1,4 +1,5 @@
 # ball.physics
+<img src="Physics_screenshot.png" width="500">
 ## Description
 This is a colorful exercise in Javascript to demonstrate animation using multicolored balls.
 
